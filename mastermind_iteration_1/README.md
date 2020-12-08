@@ -1,6 +1,6 @@
 # Problems - Mastermind Iteration 1
 
-* simple implementation of Mastermind using what you know about data structures, loops and conditional statements.
+* simple implementation of Mastermind using data structures, loops and conditional statements.
 
 ### To Run
 
