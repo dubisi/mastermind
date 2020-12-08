@@ -1,5 +1,6 @@
 # Mastermind
 * Master Mind is a code-breaking game
+* text-based program using command lines
 
 # Implematations
 
