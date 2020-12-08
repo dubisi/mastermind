@@ -1,7 +1,7 @@
-# mastermind
+# Mastermind
 * Master Mind is a code-breaking game
 
-# implematations
+# Implematations
 
 * Use the digists 1 to 8 instead of colours.
 * The game (codemaster) will generate a random 4-digit code, e.g. 2641.
