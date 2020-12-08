@@ -1,8 +1,6 @@
-# Problems - Mastermind
+# Problems - Mastermind Iteration 2
 
-* Modify `mastermind.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+*  Use of functions to improve the code.
 
 ### To Run
 
@@ -13,4 +11,4 @@
 
 * To run all the unittests: `python3 -m unittest tests/test_main.py`
 * To run a specific step's unittest, e.g step *1*: `python3 -m unittest tests.test_main.MyTestCase.test_step1`
-* _Note_: at the minimum, these (*unedited*) tests must succeed before you may submit the solution for review.
+
