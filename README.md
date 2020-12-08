@@ -1,2 +1,2 @@
 # mastermind
- Master Mind is a code-breaking game
+* Master Mind is a code-breaking game
